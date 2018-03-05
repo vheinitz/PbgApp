@@ -8,12 +8,10 @@
         <file>assets/papagei.jpg</file>
         <file>assets/schieldkr.jpg</file>
         <file>menu.qml</file>
-        <file>aufgabe1.qml</file>
         <file>Navbutton.qml</file>
         <file>settings.qml</file>
         <file>assets/aufgabe1.xml</file>
         <file>score.qml</file>
-        <file>slotimage.qml</file>
         <file>videoquestion.qml</file>
         <file>main.cpp</file>
         <file>assets/aufgabe_kreis.xml</file>
